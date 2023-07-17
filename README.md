@@ -3,7 +3,7 @@
 #### This is a GUI application built using Java. Through the system, users can enter their username and password. If the entered credentials are correct, the user can take a loan or add money to their account.
 
 ## Features:
-    *Login system: Users can enter their username and password to access their account.
+    * Login system: Users can enter their username and password to access their account.
     - Loan system: Users can take a loan from the bank.
     - Deposit system: Users can deposit money into their account.
 ## Technologies Used:
